@@ -5,3 +5,12 @@
 1. Perform basic arithmetic operations: Addition, Subtraction, Multiplication, Division<br/>
 2. Ask the user for input<br/>
 3. Handle division by zero error</p>
+<h1> 2. Number Guessing Game</h1>
+<h2>Concepts Used: </h2><p>Random module, Loops, Conditionals, Functions</p>
+<h2>Features:</h2> 
+<p>
+1.The computer randomly selects a number between 1 and 100<br/>
+2.The user has to guess the number<br/>
+3.The program provides hints like "Too High" or "Too Low"<br/>
+4.Limit the number of attempts
+</p>
