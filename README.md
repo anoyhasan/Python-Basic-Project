@@ -1,4 +1,4 @@
-<h1> Basic Calculator </h1>
+<h1>1 Basic Calculator </h1>
 <h2>Concepts Used: </h2> <p>Variables, Operators, Functions, if-else</p>
 <h2>Features:</h2> 
 <p> 
