@@ -3,5 +3,5 @@
 <h2>Features:</h2> 
 <p> 
 1. Perform basic arithmetic operations: Addition, Subtraction, Multiplication, Division<br/>
-2.Ask the user for input<br/>
+2. Ask the user for input<br/>
 3. Handle division by zero error</p>
