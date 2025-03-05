@@ -5,7 +5,7 @@
 1. Perform basic arithmetic operations: Addition, Subtraction, Multiplication, Division<br/>
 2. Ask the user for input<br/>
 3. Handle division by zero error</p>
-<h1> 2. Number Guessing Game</h1>
+<h1> 2. Number Guessing Game </h1>
 <h2>Concepts Used: </h2><p>Random module, Loops, Conditionals, Functions</p>
 <h2>Features:</h2> 
 <p>

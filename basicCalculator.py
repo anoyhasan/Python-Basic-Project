@@ -1,3 +1,4 @@
+print("Basic Calculator")
 def Calculator():
     num1 = float(input("Enter Number First : "))
     operator = input("Enter Operator [+, - , * , / ] : ")
