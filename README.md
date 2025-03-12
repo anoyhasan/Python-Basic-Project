@@ -14,3 +14,11 @@
 3.The program provides hints like "Too High" or "Too Low"<br/>
 4.Limit the number of attempts
 </p>
+<h1> 3. Rock, Paper, Scissors Game </h1>
+<h2>Concepts Used: </h2><p>random, if-else, Functions</p>
+<h2>Features:</h2> 
+<p>
+1.The user selects Rock, Paper, or Scissors<br/>
+2.The computer randomly picks one<br/>
+3.Display the winner<br/>
+</p>
