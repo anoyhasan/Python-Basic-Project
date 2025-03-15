@@ -22,3 +22,11 @@
 2.The computer randomly picks one<br/>
 3.Display the winner<br/>
 </p>
+<h1> 4. Simple To-Do List</h1>
+<h2>Concepts Used: </h2><p>Lists, Loops, Functions</p>
+<h2>Features:</h2> 
+<p>
+1.Add new tasks<br/>
+2.Remove completed tasks<br/>
+3.View all tasks<br/>
+</p>
