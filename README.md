@@ -30,3 +30,10 @@
 2.Remove completed tasks<br/>
 3.View all tasks<br/>
 </p>
+<h1> 5. Simple Password Generator</h1>
+<h2>Concepts Used: </h2><p>random, Loops, Lists</p>
+<h2>Features:</h2> 
+<p>
+1.Generate a random password<br/>
+2.Include letters, numbers, special characters<br/>
+</p>
