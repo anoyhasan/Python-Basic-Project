@@ -1,4 +1,4 @@
-def reverveTable():
+def reserveTable():
     userNum = input("How many people are dining ? : ")
     if not userNum.isdigit():
         print("You didn't enter a valid number, restart the process.")
@@ -14,7 +14,7 @@ def reverveTable():
     elif userNum == 3:
         guestName1 = input("Enter First Guest Name for Confirmation : ")
         guestName2 = input("Enter Second Guest Name for Confirmation : ")
-        guestName3 = input("Enter Second Guest Name for Confirmation : ")
+        guestName3 = input("Enter Third Guest Name for Confirmation : ")
         print(
             "I Reserve a table for ", guestName1, " , ", guestName2, " and ", guestName3
         )
@@ -36,7 +36,7 @@ while True:
         Make a choose 1 And 2 : """
     )
     if choose == "1":
-        reverveTable()
+        reserveTable()
     elif choose == "2":
         print("Thank you for visiting! Goodbye.")
         break

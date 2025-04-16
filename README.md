@@ -37,4 +37,12 @@
 1.Generate a random password<br/>
 2.Include letters, numbers, special characters<br/>
 </p>
-<h1> 6. Reverve Table </h1>
+<h1> 6. Table Reservation </h1>
+<h2>Concepts Used: </h2><p>Input, conditions, loop, functions</p>
+<h2>Features:</h2> 
+<p>
+    1.Reserve for 1–3 people<br/>
+    2.Get guest names <br/>
+    3.Validate input <br/>
+    4.Menu: Reserve / Exit <br/>
+    5.Confirm with custom message <br/>
