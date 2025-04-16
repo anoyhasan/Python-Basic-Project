@@ -46,3 +46,39 @@
     3.Validate input <br/>
     4.Menu: Reserve / Exit <br/>
     5.Confirm with custom message <br/>
+<h1>7. Even or Odd Checker</h1>
+<h2>Concepts Used: </h2><p>Input, Conditions, Modulus (%)</p>
+<h2>Features:</h2> 
+<p>
+    1. Ask the user to input a number<br/>
+    2. Check if the number is even or odd using modulus operator<br/>
+    3. Display the result based on the check<br/>
+</p>
+<h1>8. BMI Calculator</h1>
+<h2>Concepts Used: </h2><p>Input, Conditions, Functions, Arithmetic Operations</p>
+<h2>Features:</h2> 
+<p>
+    1. Ask the user for weight and height<br/>
+    2. Calculate BMI using the formula: BMI = weight / (height * height)<br/>
+    3. Classify BMI result as Underweight, Normal, Overweight, or Obese<br/>
+    4. Display the calculated BMI and the classification<br/>
+</p>
+<h1>9. Tip Calculator</h1>
+<h2>Concepts Used: </h2><p>Input, Arithmetic Operations, Conditions</p>
+<h2>Features:</h2> 
+<p>
+    1. Ask the user for bill amount and tip percentage<br/>
+    2. Calculate the tip and total amount<br/>
+    3. Ask if the user wants to split the bill<br/>
+    4. Optionally, calculate and display each person’s share of the bill<br/>
+    5. Validate user input for bill amount and tip percentage<br/>
+</p>
+<h1>10. Word Counter</h1>
+<h2>Concepts Used: </h2><p>Input, String Manipulation, Functions</p>
+<h2>Features:</h2> 
+<p>
+    1. Ask the user to input a sentence<br/>
+    2. Split the sentence into words<br/>
+    3. Count the number of words and characters (excluding spaces)<br/>
+    4. Display the word and character count<br/>
+</p>
