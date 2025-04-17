@@ -115,3 +115,34 @@
     4. Compare the sorted results<br/>
     5. Display whether they are anagrams or not<br/>
 </p>
+<h1>14. Simple Quiz App</h1>
+<h2>Concepts You'll Practice:</h2>
+<p>Dictionaries, conditionals, score tracking, loops</p>
+<h2>Features:</h2>
+<p>
+    1. Ask multiple choice questions<br/>
+    2. Track the user's score<br/>
+    3. Provide feedback based on answers<br/>
+    4. Show total score at the end<br/>
+</p>
+<h1>15. Dice Rolling Simulator</h1>
+<h2>Concepts You'll Practice:</h2>
+<p>Random, loops, input</p>
+<h2>Features:</h2>
+<p>
+    1. Roll a single die or multiple dice<br/>
+    2. Display the result of the roll<br/>
+    3. Ask the user if they want to roll again<br/>
+    4. Option to exit the game<br/>
+</p>
+<h1>16. Basic Contact Book</h1>
+<h2>Concepts You'll Practice:</h2>
+<p>Dictionary, CRUD (Create, Read, Update, Delete)</p>
+<h2>Features:</h2>
+<p>
+    1. Add a new contact (name, phone number)<br/>
+    2. View the contact list<br/>
+    3. Update existing contact information<br/>
+    4. Delete a contact<br/>
+    5. Exit the contact book<br/>
+</p>
