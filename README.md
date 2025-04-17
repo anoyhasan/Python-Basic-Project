@@ -146,3 +146,73 @@
     4. Delete a contact<br/>
     5. Exit the contact book<br/>
 </p>
+<h1>17. Countdown Timer 🕒</h1>
+<h2>Concept:</h2>
+<p>Loops, user input, time manipulation</p>
+<h2>Features:</h2>
+<p>
+    1. Let the user specify a number of seconds<br/>
+    2. Display a countdown in seconds<br/>
+    3. Alert the user with a message when the time is up<br/>
+</p>
+
+<h1>18. Alarm Clock ⏰</h1>
+<h2>Concept:</h2>
+<p>Time comparison, user input, conditionals</p>
+<h2>Features:</h2>
+<p>
+    1. Allow the user to set a specific time for the alarm<br/>
+    2. Continuously check the current time<br/>
+    3. Alert the user when the alarm time is reached<br/>
+</p>
+
+<h1>19. Shopping List 🛒</h1>
+<h2>Concept:</h2>
+<p>Lists, dictionaries, CRUD operations (Create, Read, Update, Delete)</p>
+<h2>Features:</h2>
+<p>
+    1. Add items to the shopping list<br/>
+    2. Remove items from the shopping list<br/>
+    3. View all items in the shopping list<br/>
+    4. Option to update the quantity or name of items<br/>
+</p>
+
+<h1>20. Pig Latin Translator 🗣</h1>
+<h2>Concept:</h2>
+<p>String manipulation, loops, conditionals</p>
+<h2>Features:</h2>
+<p>
+    1. Take an English sentence as input<br/>
+    2. Convert each word to Pig Latin based on the rules<br/>
+    3. Return the translated Pig Latin sentence<br/>
+</p>
+
+<h1>21. Roman Numerals Converter 📜</h1>
+<h2>Concept:</h2>
+<p>Number manipulation, conditionals, string manipulation</p>
+<h2>Features:</h2>
+<p>
+    1. Convert a number from Arabic numerals to Roman numerals<br/>
+    2. Convert Roman numerals to Arabic numerals<br/>
+    3. Handle invalid inputs<br/>
+</p>
+
+<h1>22. Mad Libs Game 🎉</h1>
+<h2>Concept:</h2>
+<p>String manipulation, user input</p>
+<h2>Features:</h2>
+<p>
+    1. Ask the user for various parts of speech (noun, verb, adjective, etc.)<br/>
+    2. Insert the user's words into a story template<br/>
+    3. Generate and display a funny, unique story<br/>
+</p>
+
+<h1>23. Multiplication Table ➗</h1>
+<h2>Concept:</h2>
+<p>Loops, math operations</p>
+<h2>Features:</h2>
+<p>
+    1. Ask the user for a number<br/>
+    2. Generate and display the multiplication table for that number<br/>
+    3. Option to view a multiplication table for multiple numbers<br/>
+</p>
