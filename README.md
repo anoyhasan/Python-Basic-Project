@@ -82,3 +82,36 @@
     3. Count the number of words and characters (excluding spaces)<br/>
     4. Display the word and character count<br/>
 </p>
+<h1>11. Prime Checker</h1>
+<h2>Concepts Used:</h2>
+<p>Loops, conditions, modulus operator</p>
+<h2>Features:</h2>
+<p>
+    1. Ask the user for a number<br/>
+    2. Check if the number is greater than 1<br/>
+    3. Loop through and check for divisibility<br/>
+    4. Tell if it's a prime or not<br/>
+    5. Handle edge cases (like 0 or 1)<br/>
+</p>
+<h1>12. Palindrome Checker</h1>
+<h2>Concepts Used:</h2>
+<p>Strings, slicing, conditions, input</p>
+<h2>Features:</h2>
+<p>
+    1. Ask the user to enter a word or sentence<br/>
+    2. Clean and normalize the input (remove spaces, lowercase)<br/>
+    3. Reverse the string and compare<br/>
+    4. Display whether it's a palindrome or not<br/>
+    5. Handle uppercase, symbols, and spaces<br/>
+</p>
+<h1>13. Anagram Checker</h1>
+<h2>Concepts Used:</h2>
+<p>Strings, sorting, conditions, input</p>
+<h2>Features:</h2>
+<p>
+    1. Ask for two words from the user<br/>
+    2. Remove spaces and lowercase both inputs<br/>
+    3. Sort the letters in both words<br/>
+    4. Compare the sorted results<br/>
+    5. Display whether they are anagrams or not<br/>
+</p>
